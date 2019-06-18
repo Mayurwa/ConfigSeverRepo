@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driverClassName: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@hostname:1530:KCDB
+    username: kcci
+    password: kcci    
+  
